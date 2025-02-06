@@ -1,3 +1,4 @@
 ﻿# calculator
-## [https://erichan-ctrl.github.io/calculator/](Демо-версия)
+## Демо:
+[https://erichan-ctrl.github.io/calculator/](Демо-версия)
 
